@@ -1,4 +1,3 @@
-import Image from "next/image";
 import styles from "./styles.module.scss";
 
 export default function SectionThree() {
@@ -16,7 +15,6 @@ export default function SectionThree() {
         <div className={styles.containerCard}>
           <img src="/images/card-02.png" alt="" />
           <div>
-            {/* <img src="" alt="" /> */}
             <h2>Auditoria Empresarial</h2>
             <p>
               Uma auditoria examina os registros financeiros da sua empresa para
@@ -29,7 +27,6 @@ export default function SectionThree() {
         <div className={styles.containerCard}>
           <img src="/images/card-02.png" alt="" />
           <div>
-            {/* <img src="" alt="" /> */}
             <h2>Data tracking</h2>
             <p>
               O hardware e software, que quando usados juntos permitem que você
@@ -41,7 +38,6 @@ export default function SectionThree() {
         <div className={styles.containerCard}>
           <img src="/images/card-02.png" alt="" />
           <div>
-            {/* <img src="" alt="" /> */}
             <h2>Results</h2>
             <p>
               Uma auditoria examina os registros financeiros da sua empresa para
