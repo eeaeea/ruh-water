@@ -1,6 +1,6 @@
 import styles from "./styles.module.scss";
 
-export default function SectionThree() {
+export default function Section5() {
   return (
     <>
       <div className={styles.container}>

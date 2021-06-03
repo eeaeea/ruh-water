@@ -1,6 +1,6 @@
 import styles from "./styles.module.scss";
 
-export default function SectionTwo() {
+export default function Footer() {
   return (
     <>
       <div className={styles.container}>

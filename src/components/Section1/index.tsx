@@ -1,7 +1,7 @@
 import Image from "next/image";
 import styles from "./styles.module.scss";
 
-export default function SectionOne() {
+export default function Section1() {
   return (
     <>
       <div className={styles.container}>
