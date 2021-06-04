@@ -6,13 +6,13 @@ export default function Section5() {
       <div className={styles.container}>
         <div className={styles.containerContent}>
           <div>
-            <span>START WITH US</span>
-            <h1>Start working faster today</h1>
+            <span>COMECE CONOSCO</span>
+            <h1>Comece a trabalhar mais rápido hoje</h1>
             <p>
-              We know the best solution for all of your business ideas and we
-              can help you solve all business problems
+              Sabemos a melhor solução para todas as suas ideias de negócios e
+              podemos ajudá-lo a resolver todos os problemas de negócios
             </p>
-            <button>GET STARTED</button>
+            <button>COMECE AGORA!</button>
           </div>
           <img src="/images/section-five.png" alt="" />
         </div>

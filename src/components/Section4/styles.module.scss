@@ -47,4 +47,19 @@
 }
 
 .containerCompanys {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
+  align-items: center;
+  justify-content: space-between;
+  row-gap: 48px;
+  max-width: 1150px;
+  width: 100%;
+  margin-bottom: 40px;
+
+  img {
+    width: 142px;
+    align-content: center;
+    &:last-child {
+    }
+  }
 }

@@ -20,13 +20,13 @@ export default function Section1() {
             <a href="http://">Testemunhos</a>
             <a href="http://">Inicie um projeto</a>
           </nav>
-          <button>GET STARTED</button>
+          <button>COMECE AGORA!</button>
         </header>
 
         <div className={styles.containerContent}>
           <h1>Uma agência de design de produto digital</h1>
           <h2>Somos Agência Digital Criativa e Profissional</h2>
-          <button>GET STARTED</button>
+          <button>COMECE AGORA!</button>
           <Image src="/images/hero.png" alt="" height={786} width={1080} />
         </div>
       </div>

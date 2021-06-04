@@ -4,7 +4,7 @@ export default function Section2() {
   return (
     <>
       <div className={styles.container}>
-        <span>FEATURES</span>
+        <span>RECURSOS</span>
         <h1>
           Estamos aqui <br />
           para ajudá-lo com
