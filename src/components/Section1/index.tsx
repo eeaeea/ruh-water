@@ -24,8 +24,11 @@ export default function Section1() {
         </header>
 
         <div className={styles.containerContent}>
-          <h1>Uma agência de design de produto digital</h1>
-          <h2>Somos Agência Digital Criativa e Profissional</h2>
+          <h1>
+            Estamos aqui para aprimorar
+            <br /> sua lavoura!
+          </h1>
+          <h2>Comunicação Via Satélite. Dados em Tempo Real.</h2>
           <button>COMECE AGORA!</button>
           <Image src="/images/hero.png" alt="" height={786} width={1080} />
         </div>

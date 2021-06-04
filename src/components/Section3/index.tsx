@@ -36,7 +36,7 @@ export default function Section3() {
         </div>
 
         <div className={styles.containerCard}>
-          <img src="/images/card-02.png" alt="" />
+          <img src="/images/card-03.png" alt="" />
           <div>
             <h2>Fluviômetro</h2>
             <p>
