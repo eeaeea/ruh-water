@@ -4,11 +4,9 @@
   align-items: center;
   justify-content: center;
   padding: 184px 375px;
-  // background: #f2f2f2 url("../../../public/images/bg-three.png");
-  // background-position: top;
-  // background-repeat: no-repeat;
-  // background: #0f4c90;
-  background: #10548c;
+  background: #f2f2f2 url("../../../public/images/bg-three.png");
+  background-position: top;
+  background-repeat: no-repeat;
 
   span {
     margin-bottom: 14px;
@@ -68,7 +66,7 @@
 
     p {
       color: #595e64;
-      font-size: 16px;
+      font-size: 1.6rem;
       margin-bottom: 0;
       line-height: 24px;
       text-align: left;

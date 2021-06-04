@@ -4,6 +4,14 @@
   box-sizing: border-box;
 }
 
+html {
+  font-size: 62.5%; // a cada 1rem sera considerado 10px
+}
+
+body {
+  font-size: 1.6rem;
+}
+
 html,
 body {
   padding: 0;
