@@ -5,7 +5,7 @@ export default function Section3() {
     <>
       <div id="section3" className={styles.container}>
         <span>COMO FUNCIONA</span>
-        <h1>Nossos Processos</h1>
+        <h1>Nossos Equipamentos</h1>
         <p>
           Sabemos a melhor solução para todas as suas ideias de negócios e
           podemos ajudá-lo
