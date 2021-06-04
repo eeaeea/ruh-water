@@ -6,7 +6,7 @@ export default function Section4() {
       <div id="section4" className={styles.container}>
         <div className={styles.containerContent}>
           <div className={styles.containerHeader}>
-            <span>MARCAS</span>
+            <span>PARCEIROS</span>
             <h1>
               Empresas parceiras
               <br /> da RuhWather
@@ -21,7 +21,7 @@ export default function Section4() {
           <span>
             Você estará em boa companhia. Trabalhamos com
             <br />
-            marcas líderes mundiais.
+            PARCEIROS líderes mundiais.
           </span>
         </div>
       </div>
