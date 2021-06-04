@@ -3,7 +3,7 @@ import styles from "./styles.module.scss";
 export default function Section2() {
   return (
     <>
-      <div className={styles.container}>
+      <div id="section2" className={styles.container}>
         <span>RECURSOS</span>
         <h1>
           Estamos aqui <br />
@@ -45,7 +45,7 @@ export default function Section2() {
             </p>
           </div>
           <div>
-            <h2>Auditoria Empresarial</h2>
+            <h2>Fluviômetro</h2>
             <p>
               Uma auditoria examina os registros financeiros de sua empresa para
               verificar se eles estão corretos. Isso é feito por meio de uma

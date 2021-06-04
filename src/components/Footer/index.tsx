@@ -7,12 +7,11 @@ export default function Footer() {
         <header>
           <img src="/images/logo.svg" alt="Logo Empresa" />
           <nav>
-            <a href="http://">Home</a>
-            <a href="http://">Seus benefícios</a>
-            <a href="http://">Nosso processo</a>
-            <a href="http://">Nossos trabalhos</a>
-            <a href="http://">Testemunhos</a>
-            <a href="http://">Inicie um projeto</a>
+            <a href="#section1">Home</a>
+            <a href="#section2">Seus benefícios</a>
+            <a href="#section3">Nosso processo</a>
+            <a href="#section4">Nossos trabalhos</a>
+            <a href="#section5">Testemunhos</a>
           </nav>
         </header>
 

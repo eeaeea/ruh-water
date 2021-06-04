@@ -3,26 +3,20 @@ import styles from "./styles.module.scss";
 export default function Section4() {
   return (
     <>
-      <div className={styles.container}>
+      <div id="section4" className={styles.container}>
         <div className={styles.containerContent}>
           <div className={styles.containerHeader}>
             <span>MARCAS</span>
             <h1>
-              Trabalhamos com milhares
-              <br /> de marcas líderes
+              Empresas parceiras
+              <br /> da RuhWather
             </h1>
           </div>
           <div className={styles.containerCompanys}>
-            <img src="/images/company1.png" alt="" />
-            <img src="/images/company2.png" alt="" />
-            <img src="/images/company3.png" alt="" />
-            <img src="/images/company4.png" alt="" />
-            <img src="/images/company5.png" alt="" />
-            <img src="/images/company6.png" alt="" />
-            <img src="/images/company7.png" alt="" />
-            <img src="/images/company8.png" alt="" />
-            <img src="/images/company9.png" alt="" />
-            <img src="/images/company10.png" alt="" />
+            <img src="/images/parceiro-1.png" alt="" />
+            <img src="/images/parceiro-2.png" alt="" />
+            <img src="/images/parceiro-3.png" alt="" />
+            <img src="/images/parceiro-6.png" alt="" />
           </div>
           <span>
             Você estará em boa companhia. Trabalhamos com

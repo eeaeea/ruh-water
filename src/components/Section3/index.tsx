@@ -3,7 +3,7 @@ import styles from "./styles.module.scss";
 export default function Section3() {
   return (
     <>
-      <div className={styles.container}>
+      <div id="section3" className={styles.container}>
         <span>COMO FUNCIONA</span>
         <h1>Nossos Processos</h1>
         <p>
@@ -27,10 +27,10 @@ export default function Section3() {
         <div className={styles.containerCard}>
           <img src="/images/card-02.png" alt="" />
           <div>
-            <h2>Data tracking</h2>
+            <h2>Horímetro</h2>
             <p>
-              O hardware e software, que quando usados juntos permitem que você
-              saiba onde algo está a qualquer momento
+              Solução inteligente para contabilização de tempo de funcionamento
+              de dispositivos, gerenciamento de vazão volumétrica e relatórios.
             </p>
           </div>
         </div>
@@ -38,11 +38,11 @@ export default function Section3() {
         <div className={styles.containerCard}>
           <img src="/images/card-02.png" alt="" />
           <div>
-            <h2>Results</h2>
+            <h2>Fluviômetro</h2>
             <p>
-              Uma auditoria examina os registros financeiros da sua empresa para
-              verificar se eles são preciso. Isso é feito por meio de uma
-              revisão sistemática de suas transações.
+              Solução inteligente para medição e monitoramento de parâmetros
+              Fluviométricos, gerenciamento do fluxo e vazão para auxílio em
+              decisões.
             </p>
           </div>
         </div>
