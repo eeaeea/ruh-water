@@ -18,9 +18,8 @@ export default function Section1() {
             <a href="http://">Nosso processo</a>
             <a href="http://">Nossos trabalhos</a>
             <a href="http://">Testemunhos</a>
-            <a href="http://">Inicie um projeto</a>
           </nav>
-          <button>COMECE AGORA!</button>
+          {/* <button>COMECE AGORA!</button> */}
         </header>
 
         <div className={styles.containerContent}>
@@ -30,7 +29,7 @@ export default function Section1() {
           </h1>
           <h2>Comunicação Via Satélite. Dados em Tempo Real.</h2>
           <button>COMECE AGORA!</button>
-          <Image src="/images/hero.png" alt="" height={786} width={1080} />
+          <img src="/images/hero.png" alt="" />
         </div>
       </div>
     </>

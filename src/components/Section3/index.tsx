@@ -13,19 +13,19 @@ export default function Section3() {
         </p>
 
         <div className={styles.containerCard}>
-          <img src="/images/card-02.png" alt="" />
+          <img src="/images/Imagem-RuhWater-11.png" alt="" />
           <div>
-            <h2>Auditoria Empresarial</h2>
+            <h2>Integração com nosso Sistema</h2>
             <p>
-              Uma auditoria examina os registros financeiros da sua empresa para
-              verificar se eles são preciso. Isso é feito por meio de uma
-              revisão sistemática de suas transações.
+              Comunicação Via Satélite ideal para locais remotos e sem rede.
+              Dados em tempo real, gráficos para análise de chuvas, registro de
+              histórico e muito mais.
             </p>
           </div>
         </div>
 
         <div className={styles.containerCard}>
-          <img src="/images/card-02.png" alt="" />
+          <img src="/images/Imagem-RuhWater-3.png" alt="" />
           <div>
             <h2>Horímetro</h2>
             <p>
@@ -36,7 +36,7 @@ export default function Section3() {
         </div>
 
         <div className={styles.containerCard}>
-          <img src="/images/card-03.png" alt="" />
+          <img src="/images/Imagem-RuhWater-9.png" alt="" />
           <div>
             <h2>Fluviômetro</h2>
             <p>
