@@ -14,7 +14,7 @@ export default function Section3() {
         </p>
 
         <div className={styles.containerCard}>
-          <Image
+          <img
             src="/images/Imagem-RuhWater-11.png"
             alt=""
             height={262}
@@ -31,7 +31,7 @@ export default function Section3() {
         </div>
 
         <div className={styles.containerCard}>
-          <Image
+          <img
             src="/images/Imagem-RuhWater-3.png"
             alt=""
             height={262}
@@ -47,7 +47,7 @@ export default function Section3() {
         </div>
 
         <div className={styles.containerCard}>
-          <Image
+          <img
             src="/images/Imagem-RuhWater-9.png"
             alt=""
             height={262}
