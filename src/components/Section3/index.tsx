@@ -1,3 +1,4 @@
+import Image from "next/image";
 import styles from "./styles.module.scss";
 
 export default function Section3() {
@@ -13,7 +14,12 @@ export default function Section3() {
         </p>
 
         <div className={styles.containerCard}>
-          <img src="/images/Imagem-RuhWater-11.png" alt="" />
+          <Image
+            src="/images/Imagem-RuhWater-11.png"
+            alt=""
+            height={262}
+            width={420}
+          />
           <div>
             <h2>Integração com nosso Sistema</h2>
             <p>
@@ -25,7 +31,12 @@ export default function Section3() {
         </div>
 
         <div className={styles.containerCard}>
-          <img src="/images/Imagem-RuhWater-3.png" alt="" />
+          <Image
+            src="/images/Imagem-RuhWater-3.png"
+            alt=""
+            height={262}
+            width={420}
+          />
           <div>
             <h2>Horímetro</h2>
             <p>
@@ -36,7 +47,12 @@ export default function Section3() {
         </div>
 
         <div className={styles.containerCard}>
-          <img src="/images/Imagem-RuhWater-9.png" alt="" />
+          <Image
+            src="/images/Imagem-RuhWater-9.png"
+            alt=""
+            height={262}
+            width={420}
+          />
           <div>
             <h2>Fluviômetro</h2>
             <p>
