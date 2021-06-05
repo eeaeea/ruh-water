@@ -15,8 +15,8 @@ export default function Section4() {
           <div className={styles.containerCompanys}>
             <img src="/images/parceiro-1.png" alt="" />
             <img src="/images/parceiro-2.png" alt="" />
-            <img src="/images/parceiro-3.png" alt="" />
             <img src="/images/parceiro-6.png" alt="" />
+            <img src="/images/parceiro-3.png" alt="" />
           </div>
           <span>
             Você estará em boa companhia. Trabalhamos com

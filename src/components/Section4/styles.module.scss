@@ -47,17 +47,31 @@
 }
 
 .containerCompanys {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
-  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  // align-items: center;
+  // align-content: center;
   justify-content: space-between;
-  row-gap: 48px;
+  // grid-template-columns: 1fr 1fr 1fr 1fr;
+  // align-items: center;
+  // justify-content: space-between;
+  // row-gap: 48px;
+  gap: 20px;
   max-width: 1150px;
   width: 100%;
   margin-bottom: 40px;
 
   img {
     width: 142px;
-    align-content: center;
+    // align-content: center;
+  }
+}
+
+.container{
+  @media (max-width: 400px) {
+    // padding: 0 20px;
+    div {
+      // width: auto;
+    }
   }
 }
