@@ -40,3 +40,9 @@ body {
   background: #f2f2f2;
   color: #fff;
 }
+
+@media screen and (max-width: 860px) {
+  html {
+    font-size: 50%;
+  }
+}

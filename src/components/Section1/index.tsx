@@ -29,7 +29,7 @@ export default function Section1() {
           </h1>
           <h2>Comunicação Via Satélite. Dados em Tempo Real.</h2>
           <button>COMECE AGORA!</button>
-          <img src="/images/hero.png" alt="" />
+          <Image src="/images/hero.png" alt="" height={600} width={880} />
         </div>
       </div>
     </>

@@ -26,9 +26,10 @@
 
   .containerCards {
     display: inline-grid;
-    grid-template-columns: auto auto auto;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
     gap: 20px;
-    width: 1150px;
+    max-width: 1150px;
+    width: 100%;
     margin-top: 32px;
 
     div {
