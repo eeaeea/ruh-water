@@ -9,8 +9,8 @@ export default function Section1() {
           <Image
             src="/images/logo.svg"
             alt="Logo Empresa"
-            height={61}
             width={259}
+            height={61}
           />
           <nav>
             <a href="http://">Home</a>
@@ -24,12 +24,12 @@ export default function Section1() {
 
         <div className={styles.containerContent}>
           <h1>
-            Estamos aqui para aprimorar
-            <br /> sua lavoura!
+            Estamos aqui para<br /> aprimorar
+            sua lavoura!
           </h1>
           <h2>Comunicação Via Satélite. Dados em Tempo Real.</h2>
           <button>COMECE AGORA!</button>
-          <Image src="/images/hero.png" alt="" height={600} width={880} />
+          <Image src="/images/hero.png" alt="" height={650} width={880} />
         </div>
       </div>
     </>
