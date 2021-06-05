@@ -23,10 +23,7 @@ export default function Section1() {
         </header>
 
         <div className={styles.containerContent}>
-          <h1>
-            Estamos aqui para<br /> aprimorar
-            sua lavoura!
-          </h1>
+          <h1>Aprimore sua lavoura!</h1>
           <h2>Comunicação Via Satélite. Dados em Tempo Real.</h2>
           <button>COMECE AGORA!</button>
           <Image src="/images/hero.png" alt="" height={650} width={880} />
