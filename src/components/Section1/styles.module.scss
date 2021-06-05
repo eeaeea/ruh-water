@@ -83,14 +83,16 @@
   }
 }
 
+.containerContent {
+  @media screen and (max-width: 375px) {
+    margin-top: 0;
+  }
+}
+
 .container header nav {
   @media screen and (max-width: 1150px) {
     display: none;
   }
 }
 
-.containerContent {
-  @media screen and (max-width: 375px) {
-    margin-top: 5rem;
-  }
-}
+
