@@ -4,7 +4,7 @@
   align-items: center;
   justify-content: center;
   height: 241px;
-  background: #0D0D0D;
+  background: #0d0d0d;
 
   header {
     display: flex;
@@ -34,5 +34,49 @@
     max-width: 1150px;
     width: 100%;
     margin-top: 40px;
+  }
+}
+
+.container {
+  @media screen and (max-width: 1150px) {
+    padding: 0 10px;
+  }
+}
+
+.container header {
+  @media screen and (max-width: 932px) {
+    flex-direction: column;
+
+    nav {
+      margin-top: 20px;
+    }
+  }
+}
+
+.container {
+  @media screen and (max-width: 555px) {
+    height: auto;
+
+    img {
+      margin-top: 20px;
+    }
+
+    div {
+      display: none;
+    }
+  }
+}
+
+.container nav {
+  @media screen and (max-width: 555px) {
+    flex-direction: column;
+    margin-bottom: 20px;
+  }
+}
+
+.container header nav a {
+  @media screen and (max-width: 555px) {
+    margin: 0;
+    margin-bottom: 20px;
   }
 }
