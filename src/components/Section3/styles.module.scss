@@ -50,9 +50,8 @@
   }
 
   img {
-    width: 420px;
-    height: 262px;
-    // padding-left: 2.6rem;
+    width: 250px;
+    height: 250px;
   }
 
   div {
@@ -88,15 +87,44 @@
 
 .containerCard {
   @media screen and (max-width: 1180px) {
-    
+    // flex-direction: column;
+    // height: auto;
+    // div h2 {
+    //   text-align: center;
+    // }
+
+    // div p {
+    //   text-align: center;
+    // }
+    text-align: left;
+    img {
+      // margin-top: 20px;
+      width: 150px;
+      height: 150px;
+    }
+  }
+}
+
+.containerCard {
+  @media (max-width: 500px) {
     flex-direction: column;
-    height: auto;
+
     div h2 {
       text-align: center;
     }
 
     div p {
       text-align: center;
+    }
+  }
+}
+
+.containerCard {
+  @media (max-width: 400px) {
+    img {
+      margin-top: 20px;
+      width: 100px;
+      height: 100px;
     }
   }
 }
