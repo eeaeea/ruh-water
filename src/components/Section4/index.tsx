@@ -6,8 +6,8 @@ export default function Section4() {
       <div id="section4" className={styles.container}>
         <span>PARCEIROS</span>
         <h1>
-          Empresas parceiras
-          <br /> da RuhWather
+          We work with thousands of the world’s
+          <br /> leading brands
         </h1>
 
         <div className={styles.containerContent}>
