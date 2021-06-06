@@ -12,8 +12,8 @@ export default function App() {
       <Section2 />
       <Section3 />
       <Section4 />
-      {/* <Section5 /> 
-      <Footer /> */}
+      <Section5 /> 
+      {/* <Footer /> */}
     </>
   );
 }

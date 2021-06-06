@@ -1,4 +1,3 @@
-import Image from "next/image";
 import styles from "./styles.module.scss";
 
 export default function Section5() {
@@ -15,12 +14,8 @@ export default function Section5() {
             </p>
             <button>COMECE AGORA!</button>
           </div>
-          <Image
-            src="/images/environmental_study.svg"
-            alt=""
-            height={523}
-            width={624}
-          />
+
+          <img src="/images/environmental_study.svg" alt="" />
         </div>
       </div>
     </>
