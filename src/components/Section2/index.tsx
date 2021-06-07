@@ -5,51 +5,60 @@ export default function Section2() {
     <>
       <div id="section2" className={styles.container}>
         <span>RECURSOS</span>
-        <h1>
-          Estamos aqui <br />
-          para ajudá-lo com
-        </h1>
+        <h1>Veja o que temos para você:</h1>
 
         <div className={styles.containerCards}>
           <div>
-            <h2>Faça seu negócio crescer</h2>
+            <h2>Tecnologia de ponta:</h2>
             <p>
-              A varinha mágica para o sucesso está em descobrir como gerar
-              lucros e garantir a capacidade necessária para sustentar esse
-              crescimento para a posteridade.
+              Utilizamos produtos de medição com tecnologia embarcada
+              certificados e equipamentos de comunicação homologados pela
+              Anatel. Produzimos as interfaces de comunicação e softwares de
+              gestão em ambiente web formando um conjunto de soluções que traz a
+              melhor experiência ao usuário.
             </p>
           </div>
           <div>
-            <h2>Gere mais vendas</h2>
+            <h2>Reduzindo despesas aumentando a confiabilidade:</h2>
             <p>
-              Um cliente potencial, uma vez perdido, é difícil de reter. Mas
-              mantendo alguns fatores críticos em mente, podemos, com certeza,
-              usar esses programas de fidelidade como ferramentas de retenção de
-              clientes.
+              A coleta automática dos dados gera confiança e possibilita
+              economia em deslocamentos do leiturista, tempo de execução da
+              tarefa, desgaste do veículo para deslocamento, combustível
+              utilizado e segurança no trabalho. Soma-se a isto as imperfeições
+              dos registros manuais, seja de confiabilidade de quem faz as
+              leituras ou de interpretações erradas dos valores vistos, lidos e
+              anotados.
             </p>
           </div>
           <div>
-            <h2>Grow your business</h2>
+            <h2>Entrega da informação em tempo real:</h2>
             <p>
-              Sabemos como podemos desenvolver relacionamentos profundos e
-              baseados na confiança com nossos clientes e trabalhar juntos de
-              forma mais colaborativa
+              Acesse a plataforma web e veja em vários formatos aquela
+              informação que faz toda a diferença na tomada de decisão. Seja por
+              visualização em mapa, gráficos ou relatórios, os dados capturados
+              são disponibilizados em até 10 minutos após o seu registro na
+              central de comunicação do equipamento.
             </p>
           </div>
           <div>
-            <h2>UX Pesquisa</h2>
+            <h2>Infraestrutura de baixo custo:</h2>
             <p>
-              A pesquisa UX é o estudo sistemático de usuários-alvo e seus
-              requisitos, para adicionar contextos e percepções realistas aos
-              processos de design.
+              Nossas soluções para coleta de dados dispensam investimentos em
+              redes de alimentação de energia, comunicação pela internet ou
+              sinal de telefonia celular. Utilizamos modernos sistemas de
+              comunicação via satélite alimentados por células fotovoltaicas em
+              dispositivos compactos, eficientes e dotados de baterias
+              auxiliares de longa duração.
             </p>
           </div>
           <div>
-            <h2>Fluviômetro</h2>
+            <h2>Central de monitoramento dos dispositivos instalados:</h2>
             <p>
-              Uma auditoria examina os registros financeiros de sua empresa para
-              verificar se eles estão corretos. Isso é feito por meio de uma
-              revisão sistemática de suas transações.
+              Cada ponto de coleta é acompanhado pelo suporte que analisa o seu
+              desempenho e funcionamento regular. Os dados são enviados
+              independentemente das condições climáticas do momento, seja
+              apagões no sistema elétrico ou de transmissão de dados, nas
+              localidades onde estão instalados, faça chuva ou faça sol.
             </p>
           </div>
           <div>
