@@ -3,9 +3,6 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  // padding: 184px;
-  // margin-top: 184px;
-  // margin-bottom: 184px;
   background: #f2f2f2 url("../../../public/images/bg-3.png");
   background-position: top;
   background-repeat: no-repeat;
@@ -87,18 +84,8 @@
 
 .containerCard {
   @media screen and (max-width: 1180px) {
-    // flex-direction: column;
-    // height: auto;
-    // div h2 {
-    //   text-align: center;
-    // }
-
-    // div p {
-    //   text-align: center;
-    // }
     text-align: left;
     img {
-      // margin-top: 20px;
       width: 150px;
       height: 150px;
     }

@@ -16,8 +16,6 @@ export default function Section3() {
           <img
             src="/images/Imagem-RuhWater-11.png"
             alt=""
-            height={262}
-            width={420}
           />
           <div>
             <h2>Integração com nosso Sistema</h2>
@@ -33,8 +31,6 @@ export default function Section3() {
           <img
             src="/images/Imagem-RuhWater-3.png"
             alt=""
-            height={262}
-            width={420}
           />
           <div>
             <h2>Horímetro</h2>
@@ -49,8 +45,6 @@ export default function Section3() {
           <img
             src="/images/Imagem-RuhWater-9.png"
             alt=""
-            height={262}
-            width={420}
           />
           <div>
             <h2>Fluviômetro</h2>
