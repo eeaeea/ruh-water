@@ -6,10 +6,7 @@ export default function Section1() {
     <>
       <div id="section1" className={styles.container}>
         <header>
-          {/* <img
-            src="/images/logo2.png"
-            alt="Logo Empresa"
-          /> */}
+          <img src="/images/logo-nova.png" alt="Logo Empresa" />
           <nav>
             <a href="http://">Home</a>
             <a href="http://">Seus benefícios</a>
@@ -21,8 +18,11 @@ export default function Section1() {
         </header>
 
         <div className={styles.containerContent}>
-          <h1>Aprimore sua lavoura!</h1>
-          <h2>Comunicação Via Satélite. Dados em Tempo Real.</h2>
+          <h1>
+            Aprimore sua experiência com
+            <br /> a melhor tecnologia em medições hídricas
+          </h1>
+          {/* <h2>Comunicação Via Satélite. Dados em Tempo Real.</h2> */}
           <button>COMECE AGORA!</button>
           <Image src="/images/hero.png" alt="" height={650} width={880} />
         </div>

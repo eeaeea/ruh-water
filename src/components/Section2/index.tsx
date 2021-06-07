@@ -62,7 +62,7 @@ export default function Section2() {
             </p>
           </div>
           <div>
-            <h2>Rastreamento de dados</h2>
+            <h2>Falta Conteúdo nesta Box</h2>
             <p>
               O hardware e software, que quando usados juntos permitem que você
               saiba onde algo está a qualquer momento
