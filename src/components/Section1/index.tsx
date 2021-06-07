@@ -6,7 +6,9 @@ export default function Section1() {
     <>
       <div id="section1" className={styles.container}>
         <header>
-          <img src="/images/logo-nova.png" alt="Logo Empresa" />
+          <a href="#section3">
+            <img src="/images/logo-nova.png" alt="Logo Empresa" />
+          </a>
           <nav>
             <a href="http://">Home</a>
             <a href="http://">Seus benefícios</a>
