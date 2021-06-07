@@ -13,25 +13,19 @@ export default function Section3() {
         </p>
 
         <div className={styles.containerCard}>
-          <img
-            src="/images/Imagem-RuhWater-11.png"
-            alt=""
-          />
+          <img src="/images/Imagem-RuhWater-6.png" alt="" />
           <div>
-            <h2>Integração com nosso Sistema</h2>
+            <h2>Fluviômetro</h2>
             <p>
-              Comunicação Via Satélite ideal para locais remotos e sem rede.
-              Dados em tempo real, gráficos para análise de chuvas, registro de
-              histórico e muito mais.
+              Solução inteligente para medição e monitoramento de parâmetros
+              fluviométricos, gerenciamento do fluxo e vazão para auxílio em
+              decisões.
             </p>
           </div>
         </div>
 
         <div className={styles.containerCard}>
-          <img
-            src="/images/Imagem-RuhWater-3.png"
-            alt=""
-          />
+          <img src="/images/Imagem-RuhWater-3.png" alt="" />
           <div>
             <h2>Horímetro</h2>
             <p>
@@ -42,16 +36,12 @@ export default function Section3() {
         </div>
 
         <div className={styles.containerCard}>
-          <img
-            src="/images/Imagem-RuhWater-9.png"
-            alt=""
-          />
+          <img src="/images/Imagem-RuhWater-9.png" alt="" />
           <div>
-            <h2>Fluviômetro</h2>
+            <h2>Pluviometro</h2>
             <p>
-              Solução inteligente para medição e monitoramento de parâmetros
-              Fluviométricos, gerenciamento do fluxo e vazão para auxílio em
-              decisões.
+              Solução inteligente para medição automática do volume de chuvas,
+              gerenciamento da quantidade de chuva com relatórios e gráficos.
             </p>
           </div>
         </div>
