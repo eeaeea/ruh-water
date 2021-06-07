@@ -10,13 +10,14 @@
 
 .containerContent {
   display: flex;
+  align-items: center;
   justify-content: space-between;
   max-width: 1150px;
   width: 100%;
 
   div {
-    height: 374px;
-    width: 417px;
+    // height: 374px;
+    // width: 417px;
 
     span {
       font-size: 1.2rem;

@@ -9,10 +9,15 @@
 
   header {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     max-width: 1150px;
     width: 100%;
+
+    // img {
+    //   width: 260px;
+    //   height: 68px;
+    // }
 
     nav {
       display: flex;

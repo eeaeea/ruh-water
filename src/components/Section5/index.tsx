@@ -7,10 +7,14 @@ export default function Section5() {
         <div className={styles.containerContent}>
           <div>
             <span>COMECE CONOSCO</span>
-            <h1>Como podemos aprimorar sua lavoura?</h1>
+            <h1>
+              Como podemos
+              <br /> aprimorar sua lavoura?
+            </h1>
             <p>
-              Sabemos a melhor solução para todas as suas ideias de negócios e
-              podemos ajudá-lo a resolver todos os problemas de negócios
+              Sabemos a melhor solução para todas as suas
+              <br /> ideias de negócios e podemos ajudá-lo a resolver
+              <br /> todos os problemas de negócios
             </p>
             <button>COMECE AGORA!</button>
           </div>

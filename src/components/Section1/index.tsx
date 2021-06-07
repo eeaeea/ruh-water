@@ -6,12 +6,10 @@ export default function Section1() {
     <>
       <div id="section1" className={styles.container}>
         <header>
-          <Image
-            src="/images/logo.svg"
+          {/* <img
+            src="/images/logo2.png"
             alt="Logo Empresa"
-            width={259}
-            height={61}
-          />
+          /> */}
           <nav>
             <a href="http://">Home</a>
             <a href="http://">Seus benefícios</a>
