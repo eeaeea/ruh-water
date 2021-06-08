@@ -1,5 +1,3 @@
-import Modal from "react-modal";
-
 import Section1 from "../components/Section1";
 import Section2 from "../components/Section2";
 import Section3 from "../components/Section3";
